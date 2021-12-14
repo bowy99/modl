@@ -13,7 +13,9 @@ from os.path import expanduser
 home = expanduser("~")
 epsilon=1e-5
 TFeps=tf.constant(1e-5,dtype=tf.float32)
-dssdf
+
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 
 
 # function c2r contatenate complex input as new axis two two real inputs

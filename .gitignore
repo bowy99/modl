@@ -1,0 +1,9 @@
+
+*.npy
+*.IMA
+AAPM-Mayo-CT-Challenge/L067/.DS_Store
+AAPM-Mayo-CT-Challenge/.DS_Store
+__pycache__/supportingFunctions.cpython-38.pyc
+__pycache__/model.cpython-38.pyc
+.vscode/launch.json
+savedModels/.DS_Store
